@@ -1,1 +1,13 @@
 stylesheet.css
+
+/*image mods aren't working*/
+.container img {
+	width: 100px;
+	height: 100px;
+}
+
+h3 {
+	text-align: center;
+	font-family: Helvetica;
+}
+
